@@ -3,17 +3,7 @@
 <body>
     <div align="center">    
         <img src="https://github.com/Djdefrag/QualityScaler/blob/main/Assets/logo.png" width="175"> 
-        <br><br> QualityScaler - image/video AI upscaler app <br><br>
-        <a href="https://jangystudio.itch.io/qualityscaler">
-            <button>
-                <img src="https://static.itch.io/images/badge-color.svg" width="225" height="70">
-            </button>     
-        </a>
-        <a href="https://store.steampowered.com/app/2463110/QualityScaler/">
-            <button>
-                 <img src="https://images.squarespace-cdn.com/content/v1/5b45fae8b98a78d9d80b9c5c/1531959264455-E7B8MJ3VMPX0593VGCZG/button-steam-available-fixed-2.png" width="250" height="70">
-            </button>                 
-        </a>
+        <br><br> AI QualityScaler - image/video AI upscaler app <br><br>
     </div>
     <br>
     <div align="center">
@@ -22,12 +12,8 @@
 </body>
 </html>
 
-## What is QualityScaler?
-Qualityscaler is a Windows app powered by AI to enhance, enlarge and reduce noise in photographs and videos.
-
-## Other AI projects.🤓
-- https://github.com/Djdefrag/RealESRScaler / RealESRScaler - image/video AI upscaler app (Real-ESRGAN)
-- https://github.com/Djdefrag/FluidFrames.RIFE / FluidFrames.RIFE - video AI interpolation app (RIFE-HDv3)
+## What is AI QualityScaler?
+AI Qualityscaler is a Windows app powered by AI to enhance, enlarge and reduce noise in photographs and videos.
 
 ## Credits.
 - BSRGAN - https://github.com/cszn/BSRGAN
